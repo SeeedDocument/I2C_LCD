@@ -9,7 +9,7 @@ More than that, we also develop the dedicated picture data convert software (bit
 I2C_LCD can provide you with a very convenient way of make. Enjoy yourself！
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_WIKI_1.jpg" width=700 />
+<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_WIKI_1.jpg" width=500 />
 
 
 ##Features
@@ -129,9 +129,8 @@ Select the COM: Click Tools -> Serial Port -> COMX(which connected with your boa
 <br />
 Author: Joney <br />
 E-mail: Joney.s@foxmail.com <br />
-Sparking Studio <br />
 
-<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/SparkingLogoShape.png"/>
+<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/SparkingLogoShape.png" width=100 />
 
 ##Version Tracker
 **I2C_LCD Hardware:**
