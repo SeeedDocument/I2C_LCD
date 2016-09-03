@@ -127,10 +127,9 @@ Select the COM: Click Tools -> Serial Port -> COMX(which connected with your boa
 1. For more details about library install please refer to http://www.arduino.cc/en/Guide/Libraries.<br />
 2. If you encounter other problems during the use, please refer to the User Manual for help. If you can't solve it, please contact us.<br />
 <br />
-Author: Joney <br />
-E-mail: Joney.s@foxmail.com <br />
+**Technical support:** Joney.s@foxmail.com <br />
 
-<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/SparkingLogoShape.png" width=100 />
+
 
 ##Version Tracker
 **I2C_LCD Hardware:**
