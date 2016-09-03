@@ -1,7 +1,6 @@
 #I2C_LCD
-
+---------
 ##Introduction
----
 
 I2C_LCD is an easy-to-use display module, It can make display easier. Using it can reduce the difficulty of make, so that makers can focus on the core of the work.<br />
 We developed the Arduino library for I2C_LCD, user just need a few lines of the code can achieve complex graphics and text display features. It can replace the serial monitor of Arduino in some place, you can get running informations without a computer.<br />
