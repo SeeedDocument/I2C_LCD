@@ -131,6 +131,8 @@ Author: Joney <br />
 E-mail: Joney.s@foxmail.com <br />
 Sparking Studio <br />
 
+<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/SparkingLogoShape.png"/>
+
 ##Version Tracker
 **I2C_LCD Hardware:**
 
@@ -156,11 +158,11 @@ Sparking Studio <br />
 
 Keeping update the latest version.
 
-* [I2C_LCD Library](https://github.com/Seeed-Studio/Sketch_Grove_Light_Sensor)
-* [I2C_LCD User Manual EN](https://github.com/Seeed-Studio/Sketch_Grove_Light_Sensor)
-* [I2C_LCD User Manual CN](https://github.com/Seeed-Studio/Sketch_Grove_Light_Sensor)
-* [BitmapConverter(ForWindows)](https://github.com/Seeed-Studio/Sketch_Grove_Light_Sensor)
-* [BitmapConverter(ForMacOS)](https://github.com/Seeed-Studio/Sketch_Grove_Light_Sensor)
-* [BitmapConverter(ForLinux)](https://github.com/Seeed-Studio/Sketch_Grove_Light_Sensor)
-* [I2C_LCD_SourceFile](https://github.com/Seeed-Studio/Sketch_Grove_Light_Sensor)
+* [I2C_LCD Library](https://github.com/SparkingStudio/I2C_LCD/raw/master/resources/I2C_LCD_V1.21.zip)
+* [I2C_LCD User Manual EN](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/I2C_LCD-UserManual_EN.zip)
+* [I2C_LCD User Manual CN](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/I2C_LCD-UserManual_CN.zip)
+* [BitmapConverter(ForWindows)](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/Bitmap Converter.rar)
+* [BitmapConverter(ForMacOS)](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/Bitmap Converter.dmg)
+* [BitmapConverter(ForLinux)](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/Bitmap Converter.tar.gz)
+* [I2C_LCD_SourceFile](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/I2C_LCD12864_SourceFile.zip)
 \ No newline at end of file
