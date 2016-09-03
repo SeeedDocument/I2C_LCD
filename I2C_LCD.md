@@ -4,34 +4,35 @@
 ---
 
 I2C_LCD is an easy-to-use display module, It can make display easier. Using it can reduce the difficulty of make, so that makers can focus on the core of the work.
+
 We developed the Arduino library for I2C_LCD, user just need a few lines of the code can achieve complex graphics and text display features. It can replace the serial monitor of Arduino in some place, you can get running informations without a computer.
+
 More than that, we also develop the dedicated picture data convert software (bitmap converter)，now is available to support PC platform of windows, Linux, Mac OS. Through the bitmap convert software you can get your favorite picture displayed on I2C_LCD, without the need for complex programming.
+
 I2C_LCD can provide you with a very convenient way of make. Enjoy yourself！
-![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/cover.jpg)
 
-
-
-
-!!!Warning
-    The light sensor value only reflects the approximated trend of the intensity of light, it DOES NOT represent the exact Lumen. 
-    
-
-###Version Track
-This document applies to the following version of products:
-
-| Version 	| Released Date	| How to buy	|
-|-----------|---------------|---------------|
-|Grove - Light Sensor 1.0 | Apr28, 2013|[![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/300px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Light-Sensor-p-746.html)|
-|Grove - Light Sensor(P)| 2014 | [![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/300px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Light-Sensor(P)-p-1253.html)|
-|Grove - Light Sensor(P) V1.1| Aug, 2016| [![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/300px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Light-Sensor(P)-p-1253.html)|
+<br />
+<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_WIKI_1.jpg" width=700 />
 
 
 ##Features
------
-* **Analog value output**
-* High reliability and sensibility
-* Small footprint
-* Recognize wider spectrum
+* Only 2 Arduino pins are occupied (Use I2C interface).
+* Supports standard I2C mode (100Kbit/s) and fast I2C mode (400Kbit/s).
+* Compatible with multiple communication logic levels: 2.8~5VDC.
+* Arduino library supported, use a line of code to complete the display.
+* Integrate 7 sizes of ASCll fonts, 5 graphics functions.
+* Provide dedicated picture data convert software (Bitmap Converter).
+* Most of the complex operation is processed by I2C_LCD independent controller, saving user controller resources.
+* Supports cursor function, can set up 16 cursor flicker frequency.
+* Supports 128 level backlight brightness adjustment.
+* Support 64 level screen contrast adjustment.
+* Support device address modification.
+* Supports 127 I2C_LCD work in parallel.
+* When debugging code, it can take the place of the serial monitor to monitor the program running state.
+* Two abnormal recovery methods are provided: reset and restore the factory settings.
+* Compatible with Grove interface and 4Pin-100mil interface (under the Grove socket).
+* 4 symmetrical fixed hole design for easy user installation.
+* China style unique appearance.
 
 ###Platform Support
 
@@ -39,24 +40,43 @@ This document applies to the following version of products:
 |---------|-----|-----|------|------|
 |![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/arduino_logo.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/wio_logo.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/bbg_logo.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/raspberry_pi_logo.jpg)|![...(line truncated)...
 
+##Interface Function
+
+<br />
+<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_Board.jpg" width=700 />
 
 
 ##Specification
-----
-|Item|Value|
-|-----|--------|
-|Operating voltage|3~5V|
-|Operating current|	0.5~3 mA|
-|Response time|20-30 milliseconds|
-|Peak Wavelength|540 nm|
-|Weight|4 g|
+|Parameter|Value|
+|---------|-------------|
+|Screen Type|Dual color LCD|
+|Screen Resolution|128*64 Pixels|
+|Screen Active Area (L*W)| 47.1*26.5mm|
+|Individual Pixel Size|0.33*0.33mm|
+|Communication Mode|I2C(100Kbit/s and 400Kbit/s)|
+|Controler|STM8S005KBT6|
+|Operating Frequency|16 MHz|
+|Weight|20g|
+
+##Electrical Characteristics
+|Parameter|Min.|Typical|MNax.|Unit|
+|---------|------|------|------|------|
+|Supply voltage（5V to GND）|4.5|5|5.5|V
+|Logic Voltage（SCL/SDA）|2.8|5|5.5|V
+|HBM ESD|-|5000|-|V
+|Temperature|-20|25|70|℃
 
 
+##How to use? 
+**Step 1:** Install the latest version of Arduino IDE to your computer.
 
-##Getting Started
+**Step 2:** Download and install the I2C_LCD Library to Arduino IDE:
 
-!!!Note
-    This part is besed on Grove - Light Sensor(P) V1.0. 
+Open Arduino IDE, click Sketch -> Include Library -> Add .ZIP Library.
+
+<br />
+<img src="https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_InstalLib_1.jpg" width=700 />
+
 
 Here we will show you how this Grove - Light Sensor works via a simple demo. First of all, you need to prepare the below stuffs:
 
@@ -125,6 +145,15 @@ Have fun.
 
 ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/secret_box.png)
 
+
+###Version Tracker
+This document applies to the following version of products:
+
+| Version 	| Released Date	| How to buy	|
+|-----------|---------------|---------------|
+|Grove - Light Sensor 1.0 | Apr28, 2013|[![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/300px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Light-Sensor-p-746.html)|
+|Grove - Light Sensor(P)| 2014 | [![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/300px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Light-Sensor(P)-p-1253.html)|
+|Grove - Light Sensor(P) V1.1| Aug, 2016| [![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/300px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Light-Sensor(P)-p-1253.html)|
 
 ###Resources
 
