@@ -155,6 +155,8 @@ Select the COM: Click Tools -> Serial Port -> COMX(which connected with your boa
 
 Keeping update the latest version.
 
+The [repository of Arduino library hosted here](https://github.com/SparkingStudio/I2C_LCD_Library), if you have any good idea of the code, you can pull to us.
+
 * [I2C_LCD Library](https://github.com/SparkingStudio/I2C_LCD/raw/master/resources/I2C_LCD_Library.zip)
 * [I2C_LCD User Manual EN](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/I2C_LCD-UserManual_EN.zip)
 * [I2C_LCD User Manual CN](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/I2C_LCD-UserManual_CN.zip)
