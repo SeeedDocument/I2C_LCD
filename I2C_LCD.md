@@ -155,7 +155,7 @@ Select the COM: Click Tools -> Serial Port -> COMX(which connected with your boa
 
 Keeping update the latest version.
 
-* [I2C_LCD Library](https://github.com/SparkingStudio/I2C_LCD/raw/master/resources/I2C_LCD_V1.21.zip)
+* [I2C_LCD Library](https://github.com/SparkingStudio/I2C_LCD/raw/master/resources/I2C_LCD_Library.zip)
 * [I2C_LCD User Manual EN](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/I2C_LCD-UserManual_EN.zip)
 * [I2C_LCD User Manual CN](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/I2C_LCD-UserManual_CN.zip)
 * [BitmapConverter(ForWindows)](https://github.com/SparkingStudio/I2C_LCD/blob/master/resources/Bitmap Converter.rar)
