@@ -83,11 +83,11 @@ I2C_LCD can provide you with a very convenient way of make. Enjoy yourself!
 
 **Step 2:** Download and install the I2C_LCD library to Arduino IDE:
 
-Open Arduino IDE, click Sketch -> Include library -> Add .ZIP library.
+Open Arduino IDE, **click Sketch -> Include library -> Add .ZIP library**.
 
 ![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_InstalLib_1.jpg)
 
-Find and select the I2C_LCD.zip file you just downloaded.
+Find and select the **I2C_LCD.zip** file you just downloaded.
 
 ![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_InstalLib_2.jpg)
 
@@ -95,7 +95,7 @@ Restart the Arduino IDE.
 
 **Step 3:** Chose the example project which you like. (Take "HelloWorld" project for example here.)
 
-Click **File > Examples > I2C_LCD > HelloWorld**
+**Click File > Examples > I2C_LCD > HelloWorld**
 
 
 ![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_InstalLib_3.jpg)
@@ -106,15 +106,15 @@ Click **File > Examples > I2C_LCD > HelloWorld**
 
 **Step 5:** Select your board and serial port.
 
-Select the board: Click Tools > Board > Arduino Duemilanove or Diecimila(Seeeduino V3.0 Or early version), Arduino Uno(Seeeduino Lotus or Seeeduino V4.0).
+Select the board: **Click Tools > Board > "Arduino Duemilanove or Diecimila"(Seeeduino V3.0 Or early version), "Arduino Uno"(Seeeduino Lotus or Seeeduino V4.0)**.
 
 ![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_InstalLib_5.jpg)
 
-Select the COM: Click Tools -> Serial Port -> COMX(which connected with your board.)
+Select the COM: **Click Tools -> Serial Port -> COMX(which connected with your board.)**
 
 ![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_InstalLib_6.jpg)
 
-**Step 6:** Upload the program and enjoy yourself!
+**Step 6:** Upload the program and **enjoy yourself!**
 
 ![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_InstalLib_7.jpg)
 
