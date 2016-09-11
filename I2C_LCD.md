@@ -74,6 +74,20 @@ I2C_LCD can provide you with a very convenient way of make. Enjoy yourself!
 |Temperature|-20|25|70|℃
 
 
+##Application Ideas
+
+Here is some funny project for your reference.
+
+|Display Picture|Clock With Calendar|Used As Debuger|
+|-------|-------|-------|
+|![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/BitmapDisplay_p1.png)|![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/ClockWithCalendar_p1.png)|![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/debugWithMe_p1.png)|
+| [Make it Now](http://www.instructables.com/id/Display-Picture-Or-Icon-On-the-fancy-I2CLCD/) | [Make it Now](http://www.instructables.com/id/Beautiful-and-practical-clock-with-calendar/) | [Make it Now](http://www.instructables.com/id/Use-I2CLCD-to-Debug-Your-Project-1/ )|
+
+|Automatic Humidifier|Snake Game|
+|-------|-------|
+|![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/AutomaticHumidifier.png)|![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/DIY_SnakeGame.png)|
+| [Make it Now](http://www.instructables.com/id/DIY-a-Simple-Automatic-Humidifier/) | [Make it Now](http://www.seeed.cc/project_detail.html?id=1621)|
+
 
 ##Getting Started
 
@@ -126,6 +140,9 @@ Select the COM: **Click Tools -> Serial Port -> COMX(which connected with your b
 
 
 **Technical support:** Joney.s@foxmail.com
+
+
+
 
 
 
