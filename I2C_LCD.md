@@ -30,7 +30,7 @@ I2C_LCD can provide you with a very convenient way of make. Enjoy yourself!
 * Provide dedicated picture data convert software (Bitmap Converter).
 * Most of the complex operation is processed by I2C_LCD independent controller, saving user controller resources.
 * Supports cursor function, can set up 16 cursor flicker frequency.
-* Supports 128 level backlight lightness adjustment.
+* Supports 128 level backlight brightness adjustment.
 * Support 64 level screen contrast adjustment.
 * Support device address modification.
 * Supports 127 I2C_LCD work in parallel.
