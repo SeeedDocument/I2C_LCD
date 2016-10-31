@@ -6,6 +6,7 @@ oldwikiname: I2C_LCD
 prodimagename: I2C_LCD_WIKI_1.jpg
 surveyurl: https://www.research.net/r/I2C_LCD
 sku: 114990279
+tags: grove_i2c, io_5v, plat_duino, plat_linkit
 ---
 
 ![enter image description here](https://raw.githubusercontent.com/SparkingStudio/I2C_LCD/master/images/I2C_LCD_WIKI_1.jpg)
@@ -46,11 +47,7 @@ I2C_LCD can provide you with a very convenient way of make. Enjoy yourself!
 * China style unique appearance.
 
 
-##Platform Support
-
-|Arduino|Wio|BeagleBone|Raspberry Pi|LinkIt|
-|---------|-----|-----|------|------|
-|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/arduino_logo.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/wio_logo_n.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/bbg_logo_n.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/raspberry_pi_logo_n.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/linkit_logo.jpg)|
+##Platforms Supported
 
 
 ##Interface Function
